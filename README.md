@@ -21,23 +21,22 @@ Hundreds of dishes across the dining halls, and the menu doesn't tell you what f
 ## Example
 
 ```text
-You: I'm Jain, what can I eat for lunch today?
+You: I'm vegetarian and allergic to nuts. What can I eat for lunch on Monday?
 
-Cubbie: Got it: Jain, so no meat, fish, eggs, honey, onion, garlic, root vegetables or mushrooms. Right?
+Cubbie: Got it: vegetarian, and allergic to nuts. Right?
 
 You: yes
 
-Cubbie: Checking the dining halls ⏳
+Cubbie: Checking the dining halls
 
-Cubbie: Lunch today, Jain:
-- Barrett: Masoor Dal, Coconut Curry Tofu, Vegan Burrito Bowl
-- Tooker House: Jeera Rice, Pasta Primavera, Almond Milk Oatmeal
-- Hassayampa: Cheese Pizza, Peanut Noodles
-Nothing fits at HIDA
-Couldn't load Manzanita
-Double-check: Garden Salad at Hassayampa (no ingredients listed)
+Cubbie: Monday lunch, vegetarian and nut-free:
+- Hassayampa: Asian Seared Tofu, Jasmine Rice, Quinoa Lentil Blend
+- Tooker House: Grilled Black Bean Burger, Refried Beans, Roasted Cauliflower
+- Barrett: Vegetable Soup with Brown Rice, Quinoa Lentil Blend, Roasted Butternut Squash
+Skip: Kung Pao Cauliflower (peanuts) and the Caesar Pasta Salad at HIDA (anchovies)
+Double-check: cheese pizzas (the cheese source isn't specified)
 
-Want this every day at 10:30 am?
+I go by the ingredients listed on the menu, so check with dining staff for allergies.
 ```
 
 ## Install on Cubbie
