@@ -87,4 +87,10 @@ If discovery fails, find an ID by hand. Open https://asu.mydininghub.com in a de
 
 ## Team
 
-Add your team name and members here.
+**Midnight Merge**
+
+- Karthik Reddy Yalala
+- Arun Teja Reddy Kallam
+- Venkat Preetam Pulla
+- Ritvik Reddy Gangula
+- Chinmay Vasisht Naganand
