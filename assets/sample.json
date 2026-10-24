@@ -1,0 +1,704 @@
+{
+ "halls": {
+  "hassayampa-dining-hall": {
+   "items": [
+    {
+     "id": "1",
+     "name": "Paneer Tikka Masala",
+     "sku": "sku1",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "paneer, tomato, cream, onion, spices"
+      },
+      {
+       "name": "marketing_description",
+       "value": "Creamy tomato curry"
+      },
+      {
+       "name": "allergen_statement",
+       "value": "Contains: Milk"
+      },
+      {
+       "name": "calories",
+       "value": "410.5"
+      },
+      {
+       "name": "protein",
+       "value": "18.2"
+      },
+      {
+       "name": "total_carbohydrates",
+       "value": "22.1"
+      },
+      {
+       "name": "total_fat",
+       "value": "27.9"
+      },
+      {
+       "name": "dietary_fiber",
+       "value": "3.4"
+      },
+      {
+       "name": "sugars",
+       "value": "8.0"
+      },
+      {
+       "name": "sodium",
+       "value": "690.3"
+      },
+      {
+       "name": "serving_combined",
+       "value": "8 oz"
+      }
+     ]
+    },
+    {
+     "id": "2",
+     "name": "Grilled Chicken Breast",
+     "sku": "sku2",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "chicken breast, olive oil, salt"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "3",
+     "name": "Chocolate Chip Cookie",
+     "sku": "sku3",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "flour, sugar, butter, egg, chocolate chips"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": "Contains: Wheat, Milk, Egg"
+      }
+     ]
+    },
+    {
+     "id": "4",
+     "name": "Egg Fried Rice",
+     "sku": "sku4",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "rice, egg, soy sauce, scallion"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "5",
+     "name": "Lentil Soup",
+     "sku": "sku5",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "red lentils, carrot, onion, cumin"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      },
+      {
+       "name": "calories",
+       "value": "180.0"
+      },
+      {
+       "name": "protein",
+       "value": "11.1"
+      },
+      {
+       "name": "total_carbohydrates",
+       "value": "30.2"
+      },
+      {
+       "name": "total_fat",
+       "value": "1.5"
+      },
+      {
+       "name": "dietary_fiber",
+       "value": "9.8"
+      },
+      {
+       "name": "sugars",
+       "value": "3.1"
+      },
+      {
+       "name": "sodium",
+       "value": "420.0"
+      },
+      {
+       "name": "serving_combined",
+       "value": "1 cup"
+      }
+     ]
+    },
+    {
+     "id": "6",
+     "name": "Cheese Pizza",
+     "sku": "sku6",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "dough, mozzarella, tomato sauce"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "7",
+     "name": "Pepperoni Pizza",
+     "sku": "sku7",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "dough, mozzarella, pepperoni, tomato sauce"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "8",
+     "name": "Noodle Casserole",
+     "sku": "sku8",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "egg noodles, egg, cheese, spinach"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "9",
+     "name": "Fountain Soda",
+     "sku": "sku9",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": ""
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "10",
+     "name": "Rice Pilaf",
+     "sku": "sku10",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "rice, butter"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      },
+      {
+       "name": "ingredient_item",
+       "value": "yes"
+      }
+     ]
+    },
+    {
+     "id": "11",
+     "name": "Garden Salad",
+     "sku": "sku11",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": ""
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "12",
+     "name": "Peanut Noodles",
+     "sku": "sku12",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "rice noodles, peanut butter, soy sauce, lime"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": "Contains: Peanut, Soy"
+      }
+     ]
+    },
+    {
+     "id": "13",
+     "name": "Hidden Test Item",
+     "sku": "sku13",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "beef"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      },
+      {
+       "name": "is_hide_from_web_menu",
+       "value": "yes"
+      }
+     ]
+    }
+   ],
+   "stationSkuMap": [
+    {
+     "id": "s1",
+     "skus": [
+      "sku1",
+      "sku2",
+      "sku5"
+     ]
+    },
+    {
+     "id": "s2",
+     "skus": [
+      "sku3",
+      "sku4",
+      "sku6",
+      "sku7",
+      "sku8",
+      "sku12"
+     ]
+    }
+   ],
+   "stations": {
+    "s1": {
+     "name": "Daily Root",
+     "position": 1
+    },
+    "s2": {
+     "name": "Kosher Bistro",
+     "position": 2
+    }
+   }
+  },
+  "tooker-house-dining-hall": {
+   "items": [
+    {
+     "id": "21",
+     "name": "Veggie Stir Fry",
+     "sku": "sku21",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "broccoli, carrot, tofu, soy sauce, ginger"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": "Contains: Soy"
+      }
+     ]
+    },
+    {
+     "id": "22",
+     "name": "Chana Masala",
+     "sku": "sku22",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "chickpeas, tomato, onion, spices"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "23",
+     "name": "Fish Tacos",
+     "sku": "sku23",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "tortilla, tilapia, cabbage slaw"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "24",
+     "name": "Pasta Primavera",
+     "sku": "sku24",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "pasta, zucchini, peppers, parmesan, olive oil"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": "Contains: Wheat, Milk"
+      }
+     ]
+    },
+    {
+     "id": "25",
+     "name": "Almond Milk Oatmeal",
+     "sku": "sku25",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "oats, almond milk, cinnamon"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": "Contains: Tree Nuts"
+      }
+     ]
+    },
+    {
+     "id": "26",
+     "name": "Aloo Gobi",
+     "sku": "sku26",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "potato, cauliflower, onion, garlic, turmeric"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "27",
+     "name": "Jeera Rice",
+     "sku": "sku27",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "basmati rice, cumin, ghee"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "28",
+     "name": "Mushroom Risotto",
+     "sku": "sku28",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "arborio rice, mushrooms, parmesan, white wine"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    }
+   ],
+   "stationSkuMap": [
+    {
+     "id": "s3",
+     "skus": [
+      "sku21",
+      "sku22",
+      "sku23",
+      "sku24",
+      "sku25",
+      "sku26",
+      "sku27",
+      "sku28"
+     ]
+    }
+   ],
+   "stations": {
+    "s3": {
+     "name": "Global Kitchen",
+     "position": 1
+    }
+   }
+  },
+  "manzanita-dining-hall": {
+   "error": true
+  },
+  "hida-dining-hall": {
+   "items": [
+    {
+     "id": "31",
+     "name": "Beef Burger",
+     "sku": "sku31",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "beef patty, bun, lettuce"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "32",
+     "name": "BBQ Pulled Pork",
+     "sku": "sku32",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "pork, bbq sauce"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    }
+   ],
+   "stationSkuMap": [],
+   "stations": {}
+  },
+  "pitchforks-dining-hall": {
+   "items": [],
+   "stationSkuMap": [],
+   "stations": {}
+  },
+  "barrett-dining-center": {
+   "items": [
+    {
+     "id": "41",
+     "name": "Vegan Burrito Bowl",
+     "sku": "sku41",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "rice, black beans, corn, salsa, guacamole"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "42",
+     "name": "Masoor Dal",
+     "sku": "sku42",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "red lentils, turmeric, cumin, ghee"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "43",
+     "name": "Gluten-Free Brownie",
+     "sku": "sku43",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "rice flour, cocoa, sugar, egg, butter"
+      },
+      {
+       "name": "marketing_description",
+       "value": "Gluten-free dessert"
+      },
+      {
+       "name": "allergen_statement",
+       "value": "Contains: Egg, Milk"
+      }
+     ]
+    },
+    {
+     "id": "44",
+     "name": "Turkey Club Sandwich",
+     "sku": "sku44",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "turkey, bacon, bread, tomato"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": ""
+      }
+     ]
+    },
+    {
+     "id": "45",
+     "name": "Coconut Curry Tofu",
+     "sku": "sku45",
+     "attributes": [
+      {
+       "name": "recipe_ingredients",
+       "value": "tofu, coconut milk, curry paste, spinach"
+      },
+      {
+       "name": "marketing_description",
+       "value": ""
+      },
+      {
+       "name": "allergen_statement",
+       "value": "Contains: Soy"
+      }
+     ]
+    }
+   ],
+   "stationSkuMap": [
+    {
+     "id": "s4",
+     "skus": [
+      "sku41",
+      "sku42",
+      "sku43",
+      "sku44",
+      "sku45"
+     ]
+    }
+   ],
+   "stations": {
+    "s4": {
+     "name": "Fresh Kitchen",
+     "position": 1
+    }
+   }
+  }
+ }
+}
