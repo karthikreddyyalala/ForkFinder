@@ -4,12 +4,6 @@ A Cubbie Skill that tells ASU students which dishes at the Tempe dining halls fi
 
 Built for Track 1 of the Cubbie Hackathon.
 
-## Demo
-
-[![Watch the ForkFinder demo](media/poster.jpg)](media/forkfinder-demo.mp4)
-
-Click the picture to watch the 28-second demo: a vegetarian student with a nut allergy installs ForkFinder in Cubbie and gets Monday's lunch picks, plus what to skip.
-
 ## The problem
 
 Hundreds of dishes across the dining halls, and the menu doesn't tell you what fits your diet. Being Jain, vegan, allergic to sesame or just hating mushrooms means scrolling ingredient lists at 12:15.
