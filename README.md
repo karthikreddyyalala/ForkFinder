@@ -4,6 +4,10 @@ A Cubbie Skill that tells ASU students which dishes at the Tempe dining halls fi
 
 Built for Track 1 of the Cubbie Hackathon.
 
+## Demo
+
+Watch the demo on Instagram: https://www.instagram.com/reel/De5MOKDTpJq/
+
 ## The problem
 
 Hundreds of dishes across the dining halls, and the menu doesn't tell you what fits your diet. Being Jain, vegan, allergic to sesame or just hating mushrooms means scrolling ingredient lists at 12:15.
